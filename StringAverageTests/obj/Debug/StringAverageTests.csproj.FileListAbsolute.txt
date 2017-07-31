@@ -1,0 +1,9 @@
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverageTests\obj\Debug\StringAverageTests.csprojResolveAssemblyReference.cache
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverageTests\bin\Debug\StringAverageTests.dll
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverageTests\bin\Debug\StringAverageTests.pdb
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverageTests\bin\Debug\nunit.framework.dll
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverageTests\bin\Debug\StringAverage.dll
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverageTests\bin\Debug\StringAverage.pdb
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverageTests\bin\Debug\nunit.framework.xml
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverageTests\obj\Debug\StringAverageTests.dll
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverageTests\obj\Debug\StringAverageTests.pdb

@@ -1,0 +1,5 @@
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverage\obj\Debug\StringAverage.csprojResolveAssemblyReference.cache
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverage\bin\Debug\StringAverage.dll
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverage\bin\Debug\StringAverage.pdb
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverage\obj\Debug\StringAverage.dll
+C:\Users\eviler.chuang99\Documents\Visual Studio 2013\codewar\StringAverage\StringAverage\obj\Debug\StringAverage.pdb
